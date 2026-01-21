@@ -1,2 +1,0 @@
-# kubernetes-installation
-kubernetes-installation
